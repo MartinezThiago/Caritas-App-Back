@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|c:\\users\\thiae\\onedrive\\escritorio\\proyecto-ing-2\\caritas-app-back\\caritasback\\caritasback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|solutionrelative:caritasback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|c:\\users\\thiae\\onedrive\\escritorio\\proyecto-ing-2\\caritas-app-back\\caritasback\\caritasback\\services\\serviciocaritasconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|solutionrelative:caritasback\\services\\serviciocaritasconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|c:\\users\\thiae\\onedrive\\escritorio\\proyecto-ing-2\\caritas-app-back\\caritasback\\caritasback\\controllers\\caritasbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|solutionrelative:caritasback\\controllers\\caritasbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|c:\\users\\thiae\\onedrive\\escritorio\\proyecto-ing-2\\caritas-app-back\\caritasback\\caritasback\\contratos\\iserviciocaritasconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BFB64D-1C28-475E-B9DA-276AA8CF817D}|CaritasBack\\CaritasBack.csproj|solutionrelative:caritasback\\contratos\\iserviciocaritasconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\appsettings.json",
+              "RelativeDocumentMoniker": "CaritasBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\appsettings.json",
+              "RelativeToolTip": "CaritasBack\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T19:48:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaritasBackController.cs",
+              "DocumentMoniker": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Controllers\\CaritasBackController.cs",
+              "RelativeDocumentMoniker": "CaritasBack\\Controllers\\CaritasBackController.cs",
+              "ToolTip": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Controllers\\CaritasBackController.cs",
+              "RelativeToolTip": "CaritasBack\\Controllers\\CaritasBackController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAIAwwEoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:36:14.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioCaritasConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Services\\ServicioCaritasConsultas.cs",
+              "RelativeDocumentMoniker": "CaritasBack\\Services\\ServicioCaritasConsultas.cs",
+              "ToolTip": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Services\\ServicioCaritasConsultas.cs",
+              "RelativeToolTip": "CaritasBack\\Services\\ServicioCaritasConsultas.cs",
+              "ViewState": "AQIAAGIEAAAAAAAAAAAtwG4EAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:36:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicioCaritasConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Contratos\\IServicioCaritasConsultas.cs",
+              "RelativeDocumentMoniker": "CaritasBack\\Contratos\\IServicioCaritasConsultas.cs",
+              "ToolTip": "C:\\Users\\thiae\\OneDrive\\Escritorio\\PROYECTO-ING-2\\Caritas-App-Back\\CaritasBack\\CaritasBack\\Contratos\\IServicioCaritasConsultas.cs",
+              "RelativeToolTip": "CaritasBack\\Contratos\\IServicioCaritasConsultas.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T00:29:47.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
